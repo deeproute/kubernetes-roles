@@ -118,5 +118,5 @@ If you want to generate a yaml from the command above just add `-oyaml --dry-run
 
 # References
 
-[CNCF Webniar: RBAC policies in Kubernetes](https://www.youtube.com/watch?v=CnHTCTP8d48)
-[Agreggate multiple Roles](https://kubernetes.io/docs/reference/access-authn-authz/rbac/#aggregated-clusterroles)
+- [CNCF Webniar: RBAC policies in Kubernetes](https://www.youtube.com/watch?v=CnHTCTP8d48)
+- [Agreggate multiple Roles](https://kubernetes.io/docs/reference/access-authn-authz/rbac/#aggregated-clusterroles)
